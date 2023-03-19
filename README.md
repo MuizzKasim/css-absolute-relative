@@ -4,4 +4,4 @@ A pure html notes on the intricacies of two css properties: ie. position Absolut
 As part of my effort to understand the integral-but-confusing positioning properties of css, I made this note in html for my own self reference in the future, should I happen to forget the inner-workings of these two properties.<br/>
 <br/>
 You can access the page by using the following link:<br/>
-https://muizzkasim.github.io/css-absolute-relative/absolute vs relative.html<br/>
+https://muizzkasim.github.io/css-absolute-relative/absolute-vs-relative.html<br/>
